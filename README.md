@@ -6,9 +6,6 @@
   <a href="https://github.com/Btwitsikaris"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" hspace="8" alt="GitHub"></a><a href="https://www.linkedin.com/in/aniketmajumdar"><img src="https://skillicons.dev/icons?i=linkedin" width="48" hspace="8" alt="LinkedIn"></a><a href="https://x.com/btwitsaniket7"><img src="https://raw.githubusercontent.com/Btwitsikaris/Btwitsikaris/main/assets/x.svg" width="48" hspace="8" alt="X"></a><a href="https://instagram.com/ikaris.core"><img src="https://skillicons.dev/icons?i=instagram" width="48" hspace="8" alt="Instagram"></a><a href="mailto:aniketmajumdar2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" hspace="8" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Btwitsikaris/Btwitsikaris/main/assets/divider.svg" width="100%" alt="">
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Btwitsikaris&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -21,6 +18,10 @@
 🤖 **Building LLM applications, AI assistants & RAG-style search**  
 ⚡ **Exploring AI Engineering, Web Applications & Interactive 3D**
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Btwitsikaris/Btwitsikaris/main/assets/divider.svg" width="100%" alt="">
+</p>
 
 
 # 🧠 AI & Development
