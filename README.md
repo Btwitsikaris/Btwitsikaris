@@ -8,7 +8,7 @@
 
 
 <br>
-# 💫 About Me
+## 💫 About Me
 
 🎓 **B.Tech CSE @ USICT, GGSIPU**<br>
 💻 Interested in **Frontend, Backend & Full-Stack Systems**<br>
