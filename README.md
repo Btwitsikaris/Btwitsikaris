@@ -119,21 +119,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Btwitsikaris&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&row=1" />
-</p>
-
----
-
-# 📊 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Btwitsikaris" alt="Btwitsikaris GitHub Contribution Graph" />
-</p>
-
----
 
 # 📌 GitHub Profile
 
