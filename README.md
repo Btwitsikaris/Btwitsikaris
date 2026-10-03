@@ -8,9 +8,9 @@
 
 I like building the whole thing end to end — from the pixels on the screen to the model behind the answer.
 
-🎓 **B.Tech CSE @ USICT, GGSIPU**
-💻 Interested in **Frontend, Backend & Full-Stack Systems**
-🤖 Building **LLM applications, AI assistants, RAG-style search & document Q&A**
+🎓 **B.Tech CSE @ USICT, GGSIPU**<br>
+💻 Interested in **Frontend, Backend & Full-Stack Systems**<br>
+🤖 Building **LLM applications, AI assistants, RAG-style search & document Q&A**<br>
 ⚡ Exploring **AI Engineering, Web Applications & Interactive 3D Experiences**
 
 ---
