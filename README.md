@@ -125,24 +125,7 @@ working system.
 
 ---
 
-# 🚀 Featured Project
 
-## 🤖 Jarvis — Personal AI
-
-An AI-powered personal assistant project focused on bringing AI interaction into a modern web experience.
-
-### 🔗 Project
-
-<p align="left">
-  <a href="https://github.com/Btwitsikaris/Jarvis-Personal-AI-">
-    <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-**Repository:**
-https://github.com/Btwitsikaris/Jarvis-Personal-AI-
-
----
 
 # 📊 GitHub Analytics
 
