@@ -12,7 +12,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aniketmajumdar">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="40" alt="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/btwitsaniket7">
@@ -20,14 +20,13 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/ikaris.core">
-    <img src="https://cdn.simpleicons.org/instagram/ffffff" width="40" alt="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aniketmajumdar2006@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="40" alt="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email">
   </a>
 </p>
-
 
 <br>
 <div align='left' >
