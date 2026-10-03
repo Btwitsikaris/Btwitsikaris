@@ -136,13 +136,6 @@ working system.
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Btwitsikaris&theme=dark&hide_border=true" />
-</p>
-
----
 
 # 📈 Contribution Activity
 
