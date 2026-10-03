@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=40&lines=Building+from+pixels+to+intelligence;LLM+Apps+%C2%B7+RAG+%C2%B7+AI+Assistants;Full+Stack+%C2%B7+Interactive+3D" alt="Typing intro">
-</p>
-
-<p align="center">
   <a href="https://github.com/Btwitsikaris"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" hspace="8" alt="GitHub"></a><a href="https://www.linkedin.com/in/aniketmajumdar"><img src="https://skillicons.dev/icons?i=linkedin" width="48" hspace="8" alt="LinkedIn"></a><a href="https://x.com/btwitsaniket7"><img src="https://raw.githubusercontent.com/Btwitsikaris/Btwitsikaris/main/assets/x.svg" width="48" hspace="8" alt="X"></a><a href="https://instagram.com/ikaris.core"><img src="https://skillicons.dev/icons?i=instagram" width="48" hspace="8" alt="Instagram"></a><a href="mailto:aniketmajumdar2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" hspace="8" alt="Email"></a>
 </p>
 
