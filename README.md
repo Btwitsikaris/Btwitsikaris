@@ -4,9 +4,9 @@
 
 **AI Engineer • Full Stack Developer • B.Tech CSE**
 
-## 🌐 Connect With Me
 
-<p align="left">
+
+<p align="centre">
   <a href="https://github.com/Btwitsikaris">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
