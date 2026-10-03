@@ -8,13 +8,16 @@
 
 
 <br>
-## 💫 About Me
+<div align="center">
 
-🎓 **B.Tech CSE @ USICT, GGSIPU**<br>
-💻 Interested in **Frontend, Backend & Full-Stack Systems**<br>
-🤖 Building **LLM applications, AI assistants, RAG-style search & document Q&A**<br>
-⚡ Exploring **AI Engineering, Web Applications & Interactive 3D Experiences**
+## 🌀 About Me
 
+🎓 **B.Tech CSE @ USICT, GGSIPU**  
+💻 **Interested in Frontend, Backend & Full-Stack Systems**  
+🤖 **Building LLM applications, AI assistants & RAG-style search**  
+⚡ **Exploring AI Engineering, Web Applications & Interactive 3D**
+
+</div>
 ---
 
 ## 🌐 Connect With Me
