@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/btwitsaniket7">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" alt="X">
+    <img src="https://cdn.simpleicons.org/x/white" width="40" alt="X">
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/ikaris.core">
