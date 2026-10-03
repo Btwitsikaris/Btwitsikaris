@@ -1,33 +1,18 @@
-<h1 align="center">👋 Hi, I'm Aniket </h1>
-
 <p align="center">
-  AI Engineer • Full Stack Developer • B.Tech CSE
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:c084fc,100:f472b6&height=220&section=header&text=Aniket%20Majumdar&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20B.Tech%20CSE&descSize=17&descAlignY=58" width="100%" alt="Aniket Majumdar">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Btwitsikaris">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aniketmajumdar">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/btwitsaniket7">
-    <img src="https://cdn.simpleicons.org/x/white" width="40" alt="X">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/ikaris.core">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:aniketmajumdar2006@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=40&lines=Building+from+pixels+to+intelligence;LLM+Apps+%C2%B7+RAG+%C2%B7+AI+Assistants;Full+Stack+%C2%B7+Interactive+3D" alt="Typing intro">
 </p>
 
-  
-<div align="left">
+<p align="center">
+  <a href="https://github.com/Btwitsikaris"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" hspace="8" alt="GitHub"></a><a href="https://www.linkedin.com/in/aniketmajumdar"><img src="https://skillicons.dev/icons?i=linkedin" width="48" hspace="8" alt="LinkedIn"></a><a href="https://x.com/btwitsaniket7"><img src="https://raw.githubusercontent.com/Btwitsikaris/Btwitsikaris/main/assets/x.svg" width="48" hspace="8" alt="X"></a><a href="https://instagram.com/ikaris.core"><img src="https://skillicons.dev/icons?i=instagram" width="48" hspace="8" alt="Instagram"></a><a href="mailto:aniketmajumdar2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" hspace="8" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Btwitsikaris/Btwitsikaris/main/assets/divider.svg" width="100%" alt="">
+</p>
 
 ## 🌀 About Me
 
