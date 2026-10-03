@@ -101,7 +101,7 @@
 
 
 
-# <h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Btwitsikaris&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=f472b6&text_color=c9d1d9&text_bold=false&custom_title=Ikaris%20Stats" alt="Stats"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsikaris&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&langs_count=6" alt="Top Languages">
@@ -112,9 +112,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Btwitsikaris&bg_color=0d1117&color=c084fc&line=f472b6&point=ffffff&area=true&area_color=c084fc&hide_border=true" alt="Activity Graph">
+  <img src="https://ghchart.rshah.org/c084fc/Btwitsikaris" width="700" alt="Contribution Graph">
 </p>
-
 ---
 
 
