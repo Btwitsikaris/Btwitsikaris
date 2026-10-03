@@ -27,6 +27,8 @@
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" alt="Email">
   </a>
 </p>
+
+
 <div align="center">
 
 ## 🌀 About Me
