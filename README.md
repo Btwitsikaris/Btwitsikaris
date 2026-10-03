@@ -1,4 +1,4 @@
-
+<div align='centre'>
 
 # 👋 Hi, I'm Aniket 
 
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-
+<div/>
 <div align="center">
 
 ## 🌀 About Me
