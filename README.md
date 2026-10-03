@@ -7,32 +7,27 @@
 
 
 <p align="center">
-
-<a href="https://github.com/Btwitsikaris">
-  <img src="https://cdn.simpleicons.org/github/ffffff?viewbox=auto" width="32" height="32" alt="GitHub">
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/aniketmajumdar">
-  <img src="https://cdn.simpleicons.org/linkedin/ffffff?viewbox=auto" width="32" height="32" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://x.com/btwitsaniket7">
-  <img src="https://cdn.simpleicons.org/x/ffffff?viewbox=auto" width="32" height="32" alt="X">
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/ikaris.core">
-  <img src="https://cdn.simpleicons.org/instagram/ffffff?viewbox=auto" width="32" height="32" alt="Instagram">
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:aniketmajumdar2006@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/ffffff?viewbox=auto" width="32" height="32" alt="Email">
-</a>
-
+  <a href="https://github.com/Btwitsikaris">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aniketmajumdar">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/btwitsaniket7">
+    <img src="https://cdn.simpleicons.org/x/000000" width="35" alt="X">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/ikaris.core">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aniketmajumdar2006@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" alt="Email">
+  </a>
 </p>
+<div align="center">
 
 ## 🌀 About Me
 
@@ -40,7 +35,7 @@
 💻 **Interested in Frontend, Backend & Full-Stack Systems**  
 🤖 **Building LLM applications, AI assistants & RAG-style search**  
 ⚡ **Exploring AI Engineering, Web Applications & Interactive 3D**
-
+</div>
 
 
 # 🧠 AI & Development
