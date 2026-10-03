@@ -37,49 +37,7 @@
 🤖 **Building LLM applications, AI assistants & RAG-style search**  
 ⚡ **Exploring AI Engineering, Web Applications & Interactive 3D**
 
-</div>
-<div align="center">
 
-## 🧠 What I Build
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🤖 AI Engineering
-
-LLM Applications  
-RAG & AI Search  
-AI Assistants  
-Document Q&A
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌐 Full Stack
-
-React & TypeScript  
-Node.js & APIs  
-Databases  
-Serverless Systems
-
-</td>
-
-<td align="center" width="33%">
-
-### 🎨 Creative Web
-
-Three.js  
-Interactive 3D  
-Modern UI/UX  
-Web Experiences
-
-</td>
-</tr>
-</table>
-
-</div>
 
 # 🧠 AI & Development
 
