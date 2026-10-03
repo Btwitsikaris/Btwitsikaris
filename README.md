@@ -100,8 +100,6 @@
   <img src="https://raw.githubusercontent.com/Btwitsikaris/Btwitsikaris/main/assets/divider.svg" width="100%" alt="">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=520&height=45&lines=%F0%9F%93%85+Commit+Activity;Every+commit+counts;Consistency+over+perfection" alt="Commit Activity">
   <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Btwitsikaris&theme=github_dark" /> </p>
 <p align="center">
   <i>"Building from pixels to intelligence."</i>
