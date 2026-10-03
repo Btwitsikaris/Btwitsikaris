@@ -8,15 +8,31 @@
 
 <p align="center">
 
-<a href="https://github.com/Btwitsikaris"><img src="https://cdn.simpleicons.org/github/ffffff" width="42" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aniketmajumdar"><img src="https://cdn.simpleicons.org/linkedin/ffffff" width="42" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/btwitsaniket7"><img src="https://cdn.simpleicons.org/x/ffffff" width="42" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/ikaris.core"><img src="https://cdn.simpleicons.org/instagram/ffffff" width="42" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:aniketmajumdar2006@gmail.com"><img src="https://cdn.simpleicons.org/gmail/ffffff" width="42" /></a>
+<a href="https://github.com/Btwitsikaris">
+  <img src="https://cdn.simpleicons.org/github/ffffff?viewbox=auto" width="32" height="32" alt="GitHub">
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/aniketmajumdar">
+  <img src="https://cdn.simpleicons.org/linkedin/ffffff?viewbox=auto" width="32" height="32" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/btwitsaniket7">
+  <img src="https://cdn.simpleicons.org/x/ffffff?viewbox=auto" width="32" height="32" alt="X">
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/ikaris.core">
+  <img src="https://cdn.simpleicons.org/instagram/ffffff?viewbox=auto" width="32" height="32" alt="Instagram">
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:aniketmajumdar2006@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/ffffff?viewbox=auto" width="32" height="32" alt="Email">
+</a>
 
 </p>
-<br>
-<div align='left' >
 
 ## 🌀 About Me
 
