@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<div/>
+</div>
   
 <div align="left">
 
