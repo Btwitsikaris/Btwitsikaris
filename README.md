@@ -1,6 +1,10 @@
+<div align="center">
+
 # 👋 Hi, I'm Aniket Majumdar
 
-### 🤖 AI Engineer • Full Stack Developer • B.Tech CSE
+**AI Engineer • Full Stack Developer • B.Tech CSE**
+
+</div>
 
 I like building the whole thing end to end — from the pixels on the screen to the model behind the answer.
 
