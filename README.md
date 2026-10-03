@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/btwitsaniket7">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" />
+    <img src="https://cdn.simpleicons.org/x/white" width="50" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/ikaris.core">
     <img src="https://skillicons.dev/icons?i=instagram" width="50" />
