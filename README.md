@@ -8,6 +8,7 @@
 
 
 <br>
+# 💫 About Me
 
 🎓 **B.Tech CSE @ USICT, GGSIPU**<br>
 💻 Interested in **Frontend, Backend & Full-Stack Systems**<br>
@@ -38,18 +39,7 @@
 
 ---
 
-# 💫 About Me
 
-```text
-👨‍💻 Full Stack Developer
-🤖 AI Engineering & LLM Applications
-🔎 RAG-style Web Search
-📄 Document Q&A
-🧠 Prompt Engineering
-🌐 Interactive Web Experiences
-⚙️ REST APIs & Serverless Applications
-🎨 UI/UX & Creative Development
-```
 
 I enjoy working across the entire stack — designing interfaces, building APIs,
 connecting databases, integrating AI models, and turning everything into one
