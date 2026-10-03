@@ -101,11 +101,18 @@
 
 
 
-# 📊 GitHub Analytics
+# <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=Btwitsikaris&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Btwitsikaris&theme=dark&hide_border=true&layout=compact&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Btwitsikaris&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=f472b6&text_color=c9d1d9&text_bold=false&custom_title=Ikaris%20Stats" alt="Stats"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsikaris&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&langs_count=6" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Btwitsikaris&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=f472b6&currStreakLabel=c084fc" alt="Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Btwitsikaris&bg_color=0d1117&color=c084fc&line=f472b6&point=ffffff&area=true&area_color=c084fc&hide_border=true" alt="Activity Graph">
 </p>
 
 ---
