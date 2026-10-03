@@ -6,7 +6,8 @@
 
 </div>
 
-I like building the whole thing end to end — from the pixels on the screen to the model behind the answer.
+
+<br>
 
 🎓 **B.Tech CSE @ USICT, GGSIPU**<br>
 💻 Interested in **Frontend, Backend & Full-Stack Systems**<br>
