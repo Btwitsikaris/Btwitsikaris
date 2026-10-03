@@ -8,7 +8,7 @@
 
 
 <br>
-<div align="center">
+<div >
 
 ## 🌀 About Me
 
