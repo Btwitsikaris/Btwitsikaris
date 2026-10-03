@@ -121,7 +121,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=520&height=45&lines=%F0%9F%93%85+Commit+Activity;Every+commit+counts;Consistency+over+perfection" alt="Commit Activity">
-</p>
+<p align="center">
   <i>"Building from pixels to intelligence."</i>
 </p>
 
