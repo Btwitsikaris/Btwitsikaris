@@ -100,9 +100,6 @@
 ---
 
 
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=520&height=50&lines=%F0%9F%93%8A+GitHub+Analytics;Stats+%26+Streaks;Always+Building+%E2%9A%A1" alt="GitHub Analytics">
 </p>
