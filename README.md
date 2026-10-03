@@ -7,27 +7,14 @@
 
 
 <p align="center">
-  <a href="https://github.com/Btwitsikaris">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="40" alt="GitHub">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aniketmajumdar">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/btwitsaniket7">
-    <img src="https://cdn.simpleicons.org/x/ffffff" width="40" alt="X">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/ikaris.core">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:aniketmajumdar2006@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email">
-  </a>
-</p>
 
+<a href="https://github.com/Btwitsikaris"><img src="https://cdn.simpleicons.org/github/ffffff" width="42" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aniketmajumdar"><img src="https://cdn.simpleicons.org/linkedin/ffffff" width="42" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/btwitsaniket7"><img src="https://cdn.simpleicons.org/x/ffffff" width="42" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/ikaris.core"><img src="https://cdn.simpleicons.org/instagram/ffffff" width="42" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:aniketmajumdar2006@gmail.com"><img src="https://cdn.simpleicons.org/gmail/ffffff" width="42" /></a>
+
+</p>
 <br>
 <div align='left' >
 
