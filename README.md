@@ -104,13 +104,20 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=520&height=50&lines=%F0%9F%93%8A+GitHub+Analytics;Stats+%26+Streaks;Always+Building+%E2%9A%A1" alt="GitHub Analytics">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header&animation=twinkling" width="100%" alt="">
+</p>
+
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Btwitsikaris&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=f472b6&text_color=c9d1d9&text_bold=false&custom_title=Ikaris%20Stats" alt="Stats"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsikaris&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&langs_count=6" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Btwitsikaris&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=f472b6&currStreakLabel=c084fc" alt="Streak">
+  <img src="https://streak-stats.demolab.com?user=Btwitsikaris&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=f472b6&currStreakLabel=c084fc&date_format=M%20j%5B%2C%20Y%5D" alt="Streak">
 </p>
-
 # 📅 Commit Activity
 
 <p align="center">
