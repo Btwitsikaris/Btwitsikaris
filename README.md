@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Aniket Majumdar</h1>
+<h1 align="center">👋 Hi, I'm Aniket </h1>
 
 <p align="center">
   AI Engineer • Full Stack Developer • B.Tech CSE
@@ -110,12 +110,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Btwitsikaris&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=f472b6&currStreakLabel=c084fc" alt="Streak">
 </p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/c084fc/Btwitsikaris" width="700" alt="Contribution Graph">
-</p>
----
-
 
 # 📅 Commit Activity
 
