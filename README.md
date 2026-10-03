@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Aniket Majumdar
+# 👋 Hi, I'm Aniket 
 
 **AI Engineer • Full Stack Developer • B.Tech CSE**
 
