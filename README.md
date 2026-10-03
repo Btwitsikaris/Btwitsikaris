@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm Aniket </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header&animation=twinkling" width="100%" alt="">
+</p><h1 align="center">👋 Hi, I'm Aniket </h1>
 
 <p align="center">
   AI Engineer • Full Stack Developer • B.Tech CSE
