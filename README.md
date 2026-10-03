@@ -120,23 +120,6 @@
 ---
 
 
-
-# 📌 GitHub Profile
-
-<p align="center">
-
-<a href="https://github.com/Btwitsikaris">
-  <img src="https://img.shields.io/github/followers/Btwitsikaris?label=Followers&style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://github.com/Btwitsikaris?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
----
-
 # 🧩 What I Like Building
 
 ```text
