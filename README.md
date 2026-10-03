@@ -1,33 +1,30 @@
-<div align="centre">
+<h1 align="center">👋 Hi, I'm Aniket Majumdar</h1>
 
-# 👋 Hi, I'm Aniket 
-
-**AI Engineer • Full Stack Developer • B.Tech CSE**
-
-
+<p align="center">
+  AI Engineer • Full Stack Developer • B.Tech CSE
+</p>
 
 <p align="center">
   <a href="https://github.com/Btwitsikaris">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="38" height="38" alt="GitHub">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aniketmajumdar">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" height="38" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/btwitsaniket7">
-    <img src="https://cdn.simpleicons.org/x/000000" width="35" alt="X">
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="38" height="38" alt="X">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/ikaris.core">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" height="38" alt="Instagram">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aniketmajumdar2006@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" alt="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" height="38" alt="Email">
   </a>
 </p>
-
 </div>
   
 <div align="left">
