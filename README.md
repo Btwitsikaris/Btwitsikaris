@@ -6,23 +6,27 @@
 
 <p align="center">
   <a href="https://github.com/Btwitsikaris">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons-png@latest/icons/github.png" width="36" alt="GitHub">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/aniketmajumdar">
-    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="32" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons-png@latest/icons/linkedin.png" width="36" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://x.com/btwitsaniket7">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="32" alt="X">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons-png@latest/icons/x.png" width="36" alt="X">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://instagram.com/ikaris.core">
-    <img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="32" alt="Instagram">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons-png@latest/icons/instagram.png" width="36" alt="Instagram">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:aniketmajumdar2006@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="32" alt="Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons-png@latest/icons/gmail.png" width="36" alt="Email">
   </a>
 </p>
 </div>
