@@ -10,6 +10,10 @@
   <img src="https://raw.githubusercontent.com/Btwitsikaris/Btwitsikaris/main/assets/divider.svg" width="100%" alt="">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Btwitsikaris&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ## 🌀 About Me
 
 🎓 **B.Tech CSE @ USICT, GGSIPU**  
@@ -105,9 +109,6 @@
   <i>"Building from pixels to intelligence."</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Btwitsikaris&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%" alt="">
 </p>
