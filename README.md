@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/aniketmajumdar">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;
+ 
   <a href="https://x.com/btwitsaniket7">
     <img src="https://cdn.simpleicons.org/x/white" width="40" alt="X">
   </a>
