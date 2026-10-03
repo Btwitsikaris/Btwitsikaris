@@ -119,24 +119,6 @@
 
 ---
 
-
-# 🧩 What I Like Building
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  🤖 AI Assistants                                       │
-│  🧠 LLM Applications                                    │
-│  🔎 RAG & AI Search                                     │
-│  🌐 Full-Stack Web Applications                         │
-│  🎨 Interactive Frontend Experiences                    │
-│  🧊 Three.js / 3D Web Experiences                       │
-│  ⚙️ APIs & Backend Systems                              │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-
 <p align="center">
   <i>"Building from pixels to intelligence."</i>
 </p>
