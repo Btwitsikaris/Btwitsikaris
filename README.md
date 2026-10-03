@@ -8,19 +8,23 @@
 
 <p align="center">
   <a href="https://github.com/Btwitsikaris">
-    <img src="https://skillicons.dev/icons?i=github" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="40" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aniketmajumdar">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="40" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/btwitsaniket7">
-    <img src="https://cdn.simpleicons.org/x/white" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="40" alt="X">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/ikaris.core">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/instagram/ffffff" width="40" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aniketmajumdar2006@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="40" alt="Email">
   </a>
 </p>
 
