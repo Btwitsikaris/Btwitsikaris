@@ -38,23 +38,16 @@
 ⚡ **Exploring AI Engineering, Web Applications & Interactive 3D**
 
 </div>
----
+## Currently Exploring
 
-
-I enjoy working across the entire stack — designing interfaces, building APIs,
-connecting databases, integrating AI models, and turning everything into one
-working system.
-
-### Currently Exploring
-
-* LLM-powered applications
-* Retrieval-Augmented Generation (RAG)
-* AI agents & assistants
-* AI-powered web search
-* Full-stack architecture
-* Three.js & interactive 3D
-* Serverless applications
-* Modern React applications
+- LLM-powered applications
+- Retrieval-Augmented Generation (RAG)
+- AI agents & assistants
+- AI-powered web search
+- Full-stack architecture
+- Three.js & interactive 3D
+- Serverless applications
+- Modern React applications
 
 ---
 
