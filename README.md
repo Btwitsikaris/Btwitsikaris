@@ -101,11 +101,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Btwitsikaris&theme=radical" alt="Profile Summary">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Btwitsikaris&theme=radical" width="32%" alt="Repos per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Btwitsikaris&theme=radical" width="32%" alt="Most Commit Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Btwitsikaris&theme=radical" width="32%" alt="Stats">
-</p>
+
 
 <p align="center">
   <i>"Building from pixels to intelligence."</i>
