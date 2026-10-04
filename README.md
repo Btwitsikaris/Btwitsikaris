@@ -91,8 +91,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Btwitsikaris&show_icons=true&hide_rank=true&bg_color=0D0B1E&border_color=7C3AED&border_radius=16&title_color=C084FC&icon_color=F472B6&text_color=C4B5FD&text_bold=false&custom_title=Ikaris%20Stats" width="48%" alt="Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsikaris&layout=compact&langs_count=6&card_width=450&bg_color=0D0B1E&border_color=7C3AED&border_radius=16&title_color=C084FC&text_color=C4B5FD&custom_title=Most%20Used%20Languages" width="48%" alt="Top Languages">
-</p>
+ <img src="https://raw.githubusercontent.com/Btwitsikaris/Btwitsikaris/main/assets/languages.svg" width="48%" alt="Most Used Languages">
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Btwitsikaris&background=0D0B1E&border=7C3AED&stroke=7C3AED&ring=F472B6&fire=22D3EE&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=F472B6&sideLabels=C4B5FD&dates=8B7FB8&border_radius=16" alt="Streak">
