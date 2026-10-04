@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Btwitsikaris&label=Profile%20Views&color=0e75b6&style=flat" />
+![Profile Views](https://komarev.com/ghpvc/?username=Btwikaris&label=Profile%20views&color=0e75b6&style=flat)
 </p>
 
 # 🧠 AI & Development
