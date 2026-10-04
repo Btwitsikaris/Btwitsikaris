@@ -89,22 +89,32 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header&animation=twinkling" width="100%" alt="">
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Btwitsikaris&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=f472b6&text_color=c9d1d9&text_bold=false&custom_title=Ikaris%20Stats" alt="Stats"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsikaris&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&langs_count=6" alt="Top Languages">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Btwitsikaris&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=f472b6&currStreakLabel=c084fc&date_format=M%20j%5B%2C%20Y%5D" alt="Streak">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Btwitsikaris/Btwitsikaris/main/assets/divider.svg" width="100%" alt="">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,100:F472B6&height=160&section=header&text=Ikaris&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-  <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Btwitsikaris&theme=github_dark" /> </p>
-<p align="center">
-  <i>"Building from pixels to intelligence."</i>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=500&lines=Full-stack+developer;JavaScript+%7C+Python+%7C+TypeScript;Building+things+that+matter" alt="typing" />
 
+<br/><br/>
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Btwitsikaris&show_icons=true&include_all_commits=true&rank_icon=github&custom_title=Ikaris%20Stats&bg_color=0D0B1E&title_color=F472B6&icon_color=22D3EE&text_color=C4B5FD&ring_color=F472B6&border_color=7C3AED&border_radius=16&line_height=30" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsikaris&layout=donut-vertical&langs_count=6&custom_title=Tech%20Arsenal&bg_color=0D0B1E&title_color=F472B6&text_color=C4B5FD&border_color=7C3AED&border_radius=16" />
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=Btwitsikaris&background=0D0B1E&border=7C3AED&stroke=7C3AED&ring=F472B6&fire=22D3EE&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=F472B6&sideLabels=C4B5FD&dates=8B7FB8&border_radius=16" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Btwitsikaris&bg_color=0D0B1E&color=C4B5FD&line=F472B6&point=22D3EE&area=true&area_color=7C3AED&hide_border=true&radius=16" width="95%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:F472B6&height=100&section=footer" width="100%"/>
+
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%" alt="">
 </p>
