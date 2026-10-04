@@ -20,7 +20,7 @@
 
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=Btwikaris)
+<img src="https://komarev.com/ghpvc/?username=Btwitsikaris&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 # 🧠 AI & Development
