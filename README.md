@@ -86,12 +86,12 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header&animation=twinkling" width="100%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:F472B6&height=90&section=header&animation=twinkling" width="100%" alt="">
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Btwitsikaris&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=f472b6&text_color=c9d1d9&text_bold=false&custom_title=Ikaris%20Stats" alt="Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsikaris&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&langs_count=6" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Btwitsikaris&show_icons=true&hide_rank=true&bg_color=0D0B1E&border_color=7C3AED&border_radius=16&title_color=C084FC&icon_color=F472B6&text_color=C4B5FD&text_bold=false&custom_title=Ikaris%20Stats" width="48%" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsikaris&layout=compact&langs_count=6&card_width=450&bg_color=0D0B1E&border_color=7C3AED&border_radius=16&title_color=C084FC&text_color=C4B5FD&custom_title=Most%20Used%20Languages" width="48%" alt="Top Languages">
 </p>
 
 <p align="center">
@@ -99,11 +99,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Btwitsikaris&theme=github_dark" alt="Profile Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Btwitsikaris&theme=radical" alt="Profile Summary">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Btwitsikaris&bg_color=0D0B1E&color=C4B5FD&line=F472B6&point=22D3EE&area=true&area_color=7C3AED&hide_border=true&radius=16" width="95%" alt="Activity Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Btwitsikaris&theme=radical" width="32%" alt="Repos per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Btwitsikaris&theme=radical" width="32%" alt="Most Commit Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Btwitsikaris&theme=radical" width="32%" alt="Stats">
 </p>
 
 <p align="center">
