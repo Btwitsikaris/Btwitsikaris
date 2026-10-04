@@ -1,1 +1,61 @@
+<svg width="480" height="280" viewBox="0 0 480 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, sans-serif; fill: #C4B5FD; font-size: 14px; }
+    .title { fill: #C084FC; font-size: 20px; font-weight: 600; }
+    .pct { fill: #F472B6; font-weight: 600; }
+  </style>
 
+  <rect x="1" y="1" width="478" height="278" rx="16" fill="#0D0B1E" stroke="#7C3AED" stroke-width="1.5"/>
+  <text x="30" y="42" class="title">Most Used Languages</text>
+
+  <!-- JavaScript -->
+  <circle cx="34" cy="85" r="5" fill="#F1E05A"/>
+  <text x="48" y="90">JavaScript</text>
+  <rect x="140" y="80" width="250" height="10" rx="5" fill="#1A1633"/>
+  <rect x="140" y="80" width="0" height="10" rx="5" fill="url(#g)">
+    <animate attributeName="width" from="0" to="250" dur="1.2s" begin="0.2s" fill="freeze"/>
+  </rect>
+  <text x="450" y="90" text-anchor="end" class="pct">44.34%</text>
+
+  <!-- Python -->
+  <circle cx="34" cy="125" r="5" fill="#3572A5"/>
+  <text x="48" y="130">Python</text>
+  <rect x="140" y="120" width="250" height="10" rx="5" fill="#1A1633"/>
+  <rect x="140" y="120" width="0" height="10" rx="5" fill="url(#g)">
+    <animate attributeName="width" from="0" to="126" dur="1.2s" begin="0.4s" fill="freeze"/>
+  </rect>
+  <text x="450" y="130" text-anchor="end" class="pct">22.40%</text>
+
+  <!-- TypeScript -->
+  <circle cx="34" cy="165" r="5" fill="#3178C6"/>
+  <text x="48" y="170">TypeScript</text>
+  <rect x="140" y="160" width="250" height="10" rx="5" fill="#1A1633"/>
+  <rect x="140" y="160" width="0" height="10" rx="5" fill="url(#g)">
+    <animate attributeName="width" from="0" to="72" dur="1.2s" begin="0.6s" fill="freeze"/>
+  </rect>
+  <text x="450" y="170" text-anchor="end" class="pct">12.82%</text>
+
+  <!-- CSS -->
+  <circle cx="34" cy="205" r="5" fill="#663399"/>
+  <text x="48" y="210">CSS</text>
+  <rect x="140" y="200" width="250" height="10" rx="5" fill="#1A1633"/>
+  <rect x="140" y="200" width="0" height="10" rx="5" fill="url(#g)">
+    <animate attributeName="width" from="0" to="71" dur="1.2s" begin="0.8s" fill="freeze"/>
+  </rect>
+  <text x="450" y="210" text-anchor="end" class="pct">12.58%</text>
+
+  <!-- HTML -->
+  <circle cx="34" cy="245" r="5" fill="#E34C26"/>
+  <text x="48" y="250">HTML</text>
+  <rect x="140" y="240" width="250" height="10" rx="5" fill="#1A1633"/>
+  <rect x="140" y="240" width="0" height="10" rx="5" fill="url(#g)">
+    <animate attributeName="width" from="0" to="44" dur="1.2s" begin="1s" fill="freeze"/>
+  </rect>
+  <text x="450" y="250" text-anchor="end" class="pct">7.86%</text>
+</svg>
