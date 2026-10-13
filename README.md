@@ -81,7 +81,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=520&height=50&lines=%F0%9F%93%8A+GitHub+Analytics;Stats+%26+Streaks;Always+Building+%E2%9A%A1" alt="GitHub Analytics">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=520&height=50&lines=%F0%9F%93%8A+GitHub+Analytics;Stats+%26+Languages;Always+Building+%E2%9A%A1" alt="GitHub Analytics">
 </p>
 
 <p align="center">
@@ -91,10 +91,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Btwitsikaris&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&bg_color=0D0B1E&border_color=7C3AED&border_radius=16&title_color=C084FC&icon_color=F472B6&text_color=C4B5FD&text_bold=false&custom_title=Ikaris%20Stats&cache_seconds=14400" width="48%" alt="Stats">
   <img src="https://raw.githubusercontent.com/Btwitsikaris/Btwitsikaris/main/assets/languages.svg" width="48%" alt="Most Used Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Btwitsikaris&background=0D0B1E&border=7C3AED&stroke=7C3AED&ring=F472B6&fire=22D3EE&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=F472B6&sideLabels=C4B5FD&dates=8B7FB8&border_radius=16" alt="Streak">
 </p>
 
 <p align="center">
