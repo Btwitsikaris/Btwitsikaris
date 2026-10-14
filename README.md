@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:c084fc,100:f472b6&height=220&section=header&text=Hi%2C%20Myself%20Aniket&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20%20%E2%80%A2Software%20Developer%20&descSize=17&descAlignY=58" width="100%" alt="Hi, myself Aniket">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:c084fc,100:f472b6&height=220&section=header&text=Hi%2C%20Myself%20Aniket&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Software%20Developer&descSize=17&descAlignY=58" width="100%" alt="Hi, myself Aniket">
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Btwitsikaris&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&bg_color=0D0B1E&border_color=7C3AED&border_radius=16&title_color=C084FC&icon_color=F472B6&text_color=C4B5FD&text_bold=false&custom_title=Ikaris%20Stats&cache_seconds=14400" width="48%" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Btwitsikaris&show_icons=true&hide_rank=true&bg_color=0D0B1E&border_color=7C3AED&border_radius=16&title_color=C084FC&icon_color=F472B6&text_color=C4B5FD&text_bold=false&custom_title=Ikaris%20Stats&cache_seconds=86400&v=2" width="48%" alt="Stats">
   <img src="https://raw.githubusercontent.com/Btwitsikaris/Btwitsikaris/main/assets/languages.svg" width="48%" alt="Most Used Languages">
 </p>
 
